@@ -1,0 +1,4 @@
+marscoin
+========
+
+Interplanetary coin - MARSCOIN
